@@ -1,5 +1,16 @@
 # lotto_game
 
+## Description du Projet
+
+```
+Description
+Ce projet est une application de jeu de lotto développée
+ en Vue.js. Le jeu de lotto est un jeu de hasard populaire 
+ dans lequel les joueurs choisissent un ensemble de numéros dans
+  l'espoir qu'ils correspondent à ceux tirés au sort.
+   C'est un jeu simple mais addictif.
+```
+
 ## Installation du Projet
 ```
 npm install
